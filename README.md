@@ -1,1 +1,2 @@
-# HTML-CSS-LAB1
+# html-css-lab1
+html-css-lab1
