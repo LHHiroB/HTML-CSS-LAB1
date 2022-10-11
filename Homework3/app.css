@@ -183,20 +183,4 @@ section{
 	font-size: 1.2rem;
 }
 
-footer p:hover,
-.table-job table td:hover{
-	color: #009dcb;
-}
-
-footer{
-	background: #111;
-	margin-top: 2rem;
-	color: #fff;
-	display: flex;
-	width: 100%;
-	padding: 0.5rem 0;
-	justify-content: space-around;
-	align-items: center;
-	cursor: pointer;
-}
 
